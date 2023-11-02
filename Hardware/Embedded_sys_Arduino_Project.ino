@@ -4,8 +4,8 @@
 int D1=5;
   
 // Set these to run example.  
-#define FIREBASE_HOST "smart-socket-705-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "WnCam2Ofr2Y9e8uKZlsGERd4B6eDcCFTOZ840pan"
+#define FIREBASE_HOST "smart-socket-705-default-rtdb.firebaseio.com" //without "https://" in staring and "/" in ending
+#define FIREBASE_AUTH "Firebase_Auth"
 #define WIFI_SSID "Alok"
 #define WIFI_PASSWORD "alok1234"
   
